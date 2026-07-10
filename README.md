@@ -27,8 +27,8 @@
 
 ## 🚀 دموی زنده
 
-برای دیدن نسخهٔ آنلاین روی لینک زیر کلیک کنید:  
-🔗 [https://your-project.vercel.app](https://your-project.vercel.app) ← لینک دموی خودت را جایگزین کن
+برای دیدن نسخهٔ آنلاین روی لینک زیر کلیک کنید: لینک دموی خودت را جایگزین کن
+ [https://sports-stream-hub-rutf.vercel.app]
 
 ## 📦 راه‌اندازی در سیستم شخصی
 
@@ -49,5 +49,5 @@ npm run dev
 yarn dev
 1. **کلون کردن مخزن**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/MobinDe/sports-stream-hub.git
+   cd sports-stream-hub
