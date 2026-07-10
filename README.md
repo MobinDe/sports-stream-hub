@@ -1,3 +1,4 @@
+
 # 🏆 ورزش‌نما – پلتفرم تماشای فیلم و مسابقات ورزشی
 
 یک وب‌سایت زیبا، واکنش‌گرا و سریع برای تماشای آنلاین مسابقات و ویدیوهای ورزشی.  
@@ -23,7 +24,7 @@
 | [Vite](https://vitejs.dev) | ابزار ساخت و سرور توسعه |
 | [Tailwind CSS](https://tailwindcss.com) | استایل‌دهی کاربردی |
 | [React Router](https://reactrouter.com) | مسیریابی سمت کاربر |
-| [Axios](https://axios-http.com) | ارتباط با API (در صورت استفاده) |
+| [Axios](https://axios-http.com) | ارتباط با API |
 
 ## 🚀 دموی زنده
 
