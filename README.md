@@ -1,2 +1,53 @@
-# sports-stream-hub
-A responsive sports video platform built with React, TypeScript, and Tailwind CSS.   Browse live and recorded matches, read sports news, and enjoy a fast, modern viewing experience.
+# 🏆 ورزش‌نما – پلتفرم تماشای فیلم و مسابقات ورزشی
+
+یک وب‌سایت زیبا، واکنش‌گرا و سریع برای تماشای آنلاین مسابقات و ویدیوهای ورزشی.  
+با قابلیت جستجو، فیلتر کردن و تجربه‌ای روان در تمام دستگاه‌ها.
+
+![اسکرین‌شات از وبسایت](./public/screenshot.png) <!-- یک اسکرین‌شات از پروژه در این مسیر قرار بده -->
+
+## 🎯 امکانات
+
+- 📺 پخش آنلاین مسابقات ورزشی و هایلایت‌ها
+- 🔍 جستجو و فیلتر بر اساس ورزش، لیگ یا تیم
+- 📱 کاملاً واکنش‌گرا (موبایل، تبلت، دسکتاپ)
+- ⚡ بارگذاری فوق‌سریع با Vite
+- 🧩 کامپوننت‌های قابل استفادهٔ مجدد با TypeScript
+- 🎨 طراحی مدرن با Tailwind CSS
+
+## 🛠 تکنولوژی‌های استفاده‌شده
+
+| تکنولوژی | کاربرد |
+|-----------|---------|
+| [React](https://react.dev) | کتابخانهٔ اصلی رابط کاربری |
+| [TypeScript](https://www.typescriptlang.org) | تایپ‌سیف و توسعهٔ ایمن‌تر |
+| [Vite](https://vitejs.dev) | ابزار ساخت و سرور توسعه |
+| [Tailwind CSS](https://tailwindcss.com) | استایل‌دهی کاربردی |
+| [React Router](https://reactrouter.com) | مسیریابی سمت کاربر |
+| [Axios](https://axios-http.com) | ارتباط با API (در صورت استفاده) |
+
+## 🚀 دموی زنده
+
+برای دیدن نسخهٔ آنلاین روی لینک زیر کلیک کنید:  
+🔗 [https://your-project.vercel.app](https://your-project.vercel.app) ← لینک دموی خودت را جایگزین کن
+
+## 📦 راه‌اندازی در سیستم شخصی
+
+### پیش‌نیازها
+
+- Node.js (نسخهٔ ۱۸ یا بالاتر)
+- npm یا yarn
+
+### مراحل نصب و اجرا
+npm install
+# یا
+yarn
+## اجرای پروژه در محیط توسعه
+
+
+npm run dev
+# یا
+yarn dev
+1. **کلون کردن مخزن**
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
