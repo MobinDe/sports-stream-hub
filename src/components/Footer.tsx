@@ -131,7 +131,7 @@ const Footer = () => {
                   ورزش‌نما
                 </h2>
                 <div className="flex items-center gap-1.5 mt-1">
-                  <span className="w-4 h-px bg-orange-500/60" />
+                  <span className="w-4 h-px bg-orange-500/50" />
                   <p className="text-[9px] text-orange-400/90 font-bold tracking-[0.2em]">
                     SPORTS ARENA
                   </p>
